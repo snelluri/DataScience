@@ -1,3 +1,7 @@
+/* Db instance details */
+endpoint: myawsmysqldb.czdvq5jjxd9p.us-east-1.rds.amazonaws.com
+Databasename: sivadb
+
 create table tips
 (total_bill float, 
 tip float,
